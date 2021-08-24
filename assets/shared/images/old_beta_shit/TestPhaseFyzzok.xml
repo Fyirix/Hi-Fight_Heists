@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TestPhaseFyzzok.png">
+<SubTexture name="TestPhaseFyzzok testdown0000" x="0" y="0" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testdown0001" x="349" y="0" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testdown0002" x="698" y="0" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testdown0003" x="1047" y="0" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testidle0000" x="0" y="654" width="894" height="654" frameX="0" frameY="0" frameWidth="894" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testidle0001" x="894" y="654" width="894" height="654" frameX="0" frameY="0" frameWidth="894" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testidle0002" x="1788" y="654" width="894" height="654" frameX="0" frameY="0" frameWidth="894" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testidle0003" x="2682" y="654" width="894" height="654" frameX="0" frameY="0" frameWidth="894" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testidle0004" x="0" y="1308" width="894" height="654" frameX="0" frameY="0" frameWidth="894" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testleft0000" x="894" y="1308" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testleft0001" x="1243" y="1308" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testleft0002" x="1592" y="1308" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testleft0003" x="0" y="1962" width="349" height="654" frameX="0" frameY="0" frameWidth="349" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testright0000" x="349" y="1962" width="366" height="654" frameX="0" frameY="0" frameWidth="366" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testright0001" x="715" y="1962" width="366" height="654" frameX="0" frameY="0" frameWidth="366" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testright0002" x="1081" y="1962" width="366" height="654" frameX="0" frameY="0" frameWidth="366" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testright0003" x="0" y="2616" width="366" height="654" frameX="0" frameY="0" frameWidth="366" frameHeight="654" />
+<SubTexture name="TestPhaseFyzzok testup0000" x="366" y="2616" width="349" height="688" frameX="0" frameY="0" frameWidth="349" frameHeight="688" />
+<SubTexture name="TestPhaseFyzzok testup0001" x="715" y="2616" width="349" height="688" frameX="0" frameY="0" frameWidth="349" frameHeight="688" />
+<SubTexture name="TestPhaseFyzzok testup0002" x="1064" y="2616" width="349" height="688" frameX="0" frameY="0" frameWidth="349" frameHeight="688" />
+<SubTexture name="TestPhaseFyzzok testup0003" x="0" y="3304" width="349" height="688" frameX="0" frameY="0" frameWidth="349" frameHeight="688" />
+</TextureAtlas>

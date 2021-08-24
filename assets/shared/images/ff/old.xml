@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fyzzok.png">
+<SubTexture name="Fyzzok down0000" x="0" y="0" width="761" height="717" frameX="0" frameY="0" frameWidth="761" frameHeight="717" />
+<SubTexture name="Fyzzok down0001" x="761" y="0" width="761" height="717" frameX="0" frameY="0" frameWidth="761" frameHeight="717" />
+<SubTexture name="Fyzzok idle0000" x="1522" y="0" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok idle0001" x="2096" y="0" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok idle0002" x="0" y="795" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok idle0003" x="574" y="795" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok idle0004" x="1148" y="795" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok idle0005" x="1722" y="795" width="574" height="795" frameX="0" frameY="0" frameWidth="574" frameHeight="795" />
+<SubTexture name="Fyzzok right0000" x="0" y="1590" width="637" height="824" frameX="0" frameY="0" frameWidth="637" frameHeight="824" />
+<SubTexture name="Fyzzok right0001" x="637" y="1590" width="637" height="824" frameX="0" frameY="0" frameWidth="637" frameHeight="824" />
+<SubTexture name="Fyzzok left0000" x="1274" y="1590" width="679" height="721" frameX="0" frameY="0" frameWidth="679" frameHeight="721" />
+<SubTexture name="Fyzzok left0001" x="1953" y="1590" width="679" height="721" frameX="0" frameY="0" frameWidth="679" frameHeight="721" />
+<SubTexture name="Fyzzok up0000" x="0" y="2414" width="621" height="844" frameX="0" frameY="0" frameWidth="621" frameHeight="844" />
+<SubTexture name="Fyzzok up0001" x="621" y="2414" width="621" height="844" frameX="0" frameY="0" frameWidth="621" frameHeight="844" />
+</TextureAtlas>
