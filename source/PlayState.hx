@@ -350,7 +350,7 @@ class PlayState extends MusicBeatState
 				bg.active = false;
 				bg.updateHitbox();
 				
-			case 'Fizzle':
+			case 'fizzle':
 				curStage = 'stageman';
 				var bg:FlxSprite = new FlxSprite(-100).loadGraphic(Paths.image('ff/stageman'));
 				add(bg);
